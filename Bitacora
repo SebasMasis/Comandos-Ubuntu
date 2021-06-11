@@ -1,0 +1,25 @@
+pwd -> mostrar la ruta
+sudo apt update -> otorgar permisos de administrador
+sudo apt install + nombre de la aplicacion  -> descargar una aplicacion desde consola
+sudo apt search -> muestra extensiones
+clear -> limpiar la consola
+lsb_release-a -> indica version del sistema operativo
+uname -a -> version del kernel
+mkdir + nombre del directorio -> crear un nuevo directorio o carpeta
+ls -> lista de archivos
+Ip addr -> muestra la dirreccion Ip
+ping + dirreccion Ip -> probar conectividad con otros equipos
+touch + nombre del archivo a crear-> crear archivos vacios como un txt
+nano + nombre de un archivo -> editar el contenido del archivo seleccionado
+cat + nombre de un archivo -> muestra unicamente el contenido del archivo seleccionado 
+more + nombre de un archivo -> muestra unicamente el contenido del archivo selecciona
+less + nombre de un archivo -> muestra unicamente el contenido del archivo selecciona
+ps -aux -> muestra la lista de procesos que se estan ejecutando 
+pstree -> muestra la lista de procesos que se estan ejecutando en un arbol
+htop -> muestra la lista de procesos que se estan ejecutando (hay que instalarlo previamente)
+grep -> buscar texto en un archivo o comando
+root -> usuario principal
+su root -> ingresar al usuario root
+sudo su -> ingresar al usuario root
+whoami -> saber si woy en un usuario root o no 
+exit -> salir del usuario root 
